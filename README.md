@@ -26,6 +26,4 @@
 
 # Where am I deployed?
 
-<enter your URL here>
-https://deploy-this-repo-itsjasonpham-attmpt1.vercel.app/
-
+<https://deploy-this-repo-itsjasonpham-attmpt1.vercel.app/>
